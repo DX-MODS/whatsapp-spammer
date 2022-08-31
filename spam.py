@@ -1,11 +1,8 @@
+#©2022 ZIYAN
 #!/usr/bin/python
 import requests,random,json,time,sys,os,re
 # -----------------------------------------------------------
-# Tidak ada author Untuk Sc ini kecuali ./Kitsune yg Telah Mendesign Dengan Sempurna
-# Update 26 january 2020 21:57
-# Recode!, dosa Tanggung Sendiri
-# Thanks For MyFriends, FourX, MhankBarBar, Maulana, Rexy
-# Underground Science And Termux Tutorial Group
+# created by ziyan
 # ---------------------------------------------------------------
 
 # -----------------------WARNA----------------------------
@@ -20,7 +17,7 @@ bgm = '\x1b[41m'
 bgp = '\x1b[47m'
 res = '\x1b[40m'
 # -------------------------------------------------------
-# Sebuah Program Python Yg Menggunakan Program Berorientasi Object
+
 #------------------------Classes------------------------
 class spam:
 		
