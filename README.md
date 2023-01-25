@@ -9,7 +9,7 @@ $ pkg install git
 
 $ python3 -m pip install requests
 
-$ git clone https://github.com/ZIYAN-SER/whatsapp-spammer
+$ git clone https://github.com/DX-MODS/whatsapp-spammer
 
 $ cd whatsapp-spammer
 
